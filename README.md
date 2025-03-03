@@ -11,7 +11,6 @@ Mein Fokus liegt auf Softwareentwicklung, Datenanalyse und der Optimierung von G
 - **Programmierung:** Python, Go, Kotlin 
 - **Datenbanken:** MySQL, MSSQL & Oracle
 - **Webentwicklung:** HTML/CSS
-- **IT-gestützte Geschäftsprozesse & Datenanalyse**  
 
 ## Projekte  
 ### Budget Tracker App
